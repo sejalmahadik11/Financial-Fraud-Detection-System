@@ -2,6 +2,8 @@
 
 The goal of this project is to build and compare multiple models for fraud detection, evaluate their performance, and provide interpretability using SHAP values to understand key drivers of fraud.
 
+Built an interactive Power BI dashboard to analyze fraud transactions. It also enabled domain experts and analysts to interactively explore fraud trends and identify hotspots.
+
 Results
 
 Random Forest emerged as the best-performing model, balancing precision and recall for fraud detection.
